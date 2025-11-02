@@ -1,4 +1,4 @@
-module github.com/elazarl/goproxy
+module github.com/stupendoussuperpowers/goproxy
 
 go 1.20
 
